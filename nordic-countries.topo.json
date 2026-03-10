@@ -14461,7 +14461,7 @@
         ]
     },
     "objects": {
-        "szao_sao": {
+        "default": {
             "type": "GeometryCollection",
             "geometries": [
                 {
