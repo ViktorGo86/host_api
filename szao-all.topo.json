@@ -13367,7 +13367,7 @@
         ]
     },
     "objects": {
-        "szao-all": {
+        "default": {
             "type": "GeometryCollection",
             "geometries": [
                 {

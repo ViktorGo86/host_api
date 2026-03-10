@@ -8565,7 +8565,7 @@
         ]
     },
     "objects": {
-        "sao-all": {
+        "default": {
             "type": "GeometryCollection",
             "geometries": [
                 {
